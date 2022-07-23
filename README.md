@@ -1,4 +1,4 @@
-# Natural Language Processing for Disaster Tweets
+# Natural Language Processing for Tweets about Disasters
 
 Twitter is an important mean of communication nowadays. On that platform, it is possible for different groups to be heard around the world in real time. In times of emergency, that possibility becomes even more relevant.
 
